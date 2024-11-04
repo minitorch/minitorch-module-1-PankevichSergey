@@ -21,7 +21,6 @@ from minitorch.operators import (
     prod,
     relu,
     relu_back,
-    sigmoid,
     sum,
 )
 
